@@ -43,7 +43,7 @@ To become a skilled Cloud/DevOps Engineer and contribute to real-world cloud inf
 
 - 🏢 From - Pune , Maharashtra 
 
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
